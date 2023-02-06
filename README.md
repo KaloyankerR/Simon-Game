@@ -1,1 +1,3 @@
 # Simon-Game
+
+![](./game.png)
