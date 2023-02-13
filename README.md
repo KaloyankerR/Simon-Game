@@ -34,9 +34,9 @@ You can play this game, when you are bored or if you want to have fun with frien
 ## Acknowledgments
 I've included a few of my favorites to kick things off!
 
-* [Angela Yu's Course](https://appbrewery.com/courses)
+* [The App Brewery](https://appbrewery.com)
 * [jQuery's documentation](https://jquery.com/)
-* [W3schools tutorial on Django](https://www.w3schools.com/django/)
+* [W3schools tutorials](https://www.w3schools.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
